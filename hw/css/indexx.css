@@ -1,0 +1,228 @@
+body{ 
+    background-image: url(../images/yellow_background.png);
+    width: 50%;
+    margin: auto;
+}
+header{
+    
+    height: 130px;
+}
+   header h1 {
+       font-family:ballpark;
+           text-align: left;
+           color: black;
+           font-size: 50px;
+       position: absolute;
+       top: 0%;
+       left: 29%
+}
+header h2 {
+    text-align:left;
+            color: black;
+            font-size: 15px;
+            font-family: Day Roman;
+    position: absolute;
+    top: 80px;
+}
+img {
+    float: left;
+}
+nav a {text-decoration: none;
+       color: black;
+    font-family: Day Roman;
+}
+nav{border: 3,5px solid red;
+    border-radius: 8px;
+    position: absolute;
+    top:60px;
+    left: 50%;
+    
+}
+nav ul {text-align:right;
+     text-transform:uppercase;
+        font-size: 25px;
+        color: black;
+    font-family:Day Roman;}
+
+
+body{ 
+    background-image: url(../images/yellow_background.png);
+    width: 50%;
+    margin: auto;
+}
+header{
+    
+    height: 130px;
+}
+   header h1 {
+       font-family:ballpark;
+           text-align: left;
+           color: black;
+           font-size: 50px;
+       position: absolute;
+       top: 0%;
+       left: 29%
+       
+    
+}
+header h2 {
+    text-align:left;
+            color: black;
+            font-size: 15px;
+            font-family: Day Roman;
+    position: absolute;
+    top: 80px;
+}
+img {
+    float: left;
+}
+
+#banner_description{
+    background-color: rgba(24, 24, 24, 0.6);
+    position: absolute;
+    top: 34.5%;
+    width: 51.5%;
+    color: white;
+}
+#banner_description a{
+    background: -moz-linear-gradient(#95646D,#831821,#B22222);
+    border-radius: 3px;
+    color: white;
+    margin-left: 468px;
+    
+     }
+
+article, aside{
+    position: relative;
+    text-align: justify;
+    vertical-align: top;
+    display: inline-block;
+}
+
+article h1{font-size:20px;
+     text-transform:uppercase;
+    font-family:Day Roman;
+}
+    aside  {
+    display: inline-block;
+    border-radius: 5px;
+    background-color: dimgray;
+    box-shadow: 5px 5px 10px black;
+    color: white;
+    font-size: 15px;
+    padding: 20px;
+    position: relative;
+    width: 25%;
+    margin-left: 70%;
+    text-align:center;
+    background-repeat: no-repeat;
+    top: -165px;
+}
+aside p{
+   
+}
+aside h1{
+    text-transform: uppercase;
+}
+aside h1{
+   
+}
+#zozor{
+    text-align: center;
+      border: 1px solid black;
+    position: absolute;
+    left: 25%;
+}
+#tweet {width:25%;
+}
+#my_pictures{width: 35%;
+    
+}
+
+#my_friends{ width: 75%;
+    
+}
+
+article h1{font-size:20px;
+     text-transform:uppercase;
+    font-family:Day Roman;
+    
+}
+aside  {
+    display: inline-block;
+    border-radius: 5px;
+    background-color: dimgray;
+    box-shadow: 5px 5px 10px black;
+    color: white;
+    font-size: 15px;
+    padding: 20px;
+    position: relative;
+    width: 25%;
+    margin-left: 70%;
+    text-align:center;
+    background-repeat: no-repeat;
+    top: -165px;
+}
+aside p{
+   
+}
+aside h1{
+    text-transform: uppercase;
+}
+aside h1{
+   
+}
+#zozor{
+    text-align: center;
+      border: 1px solid black;
+    position: absolute;
+    left: 25%;
+}
+#tweet {width:28%;
+}
+
+#my_pictures{width: 35%;
+    
+}
+
+#my_friends{ width: 31%;
+    
+}
+
+#tweet, #my_pictures, #my_friends
+{
+    display: inline-block;
+    vertical-align: top ;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
